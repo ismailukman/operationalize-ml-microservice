@@ -39,3 +39,4 @@ This Microservice is part of the Operationalize Machine Learning project prepare
 - To deploy to kubernetes, run `./run_kubernetes.sh`
 
 ### Step 5: Check status and report success
+- current output txt files are found in `output_txt_files`
